@@ -21,7 +21,7 @@ This is a basic password generator built with HTML, CSS, and JavaScript. It allo
 
 ## Demo
 
-[Add a link here if you have a live demo or screenshot]
+https://mathewjosephta.github.io/Password-Generator/
 
 ## Technologies Used
 
@@ -35,7 +35,7 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ## Contact
 
-If you have any questions or feedback, feel free to contact me.
+If you have any questions or feedback, feel free to contact me mathewjoseph3831v@gmail.com.
 
 ---
 
