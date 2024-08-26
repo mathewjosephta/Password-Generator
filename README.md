@@ -1,6 +1,3 @@
-Here's a simple README template for your password generator project:
-
----
 
 # Password Generator
 
@@ -36,7 +33,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## Contact
 
 If you have any questions or feedback, feel free to contact me mathewjoseph3831v@gmail.com.
-
----
-
-You can customize this template with any additional information specific to your project.
